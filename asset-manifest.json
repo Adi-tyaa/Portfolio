@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.6b2d1536.css",
+    "main.js": "/Portfolio/static/js/main.cc81e73b.js",
+    "static/js/787.75caaa81.chunk.js": "/Portfolio/static/js/787.75caaa81.chunk.js",
+    "static/media/bg1.gif": "/Portfolio/static/media/bg1.41061faf05d037e18138.gif",
+    "static/media/Aditya_Prakash_resume.pdf": "/Portfolio/static/media/Aditya_Prakash_resume.938d7c35a2ae9006d83a.pdf",
+    "static/media/wave_hii.gif": "/Portfolio/static/media/wave_hii.b707317f672c167912b3.gif",
+    "static/media/boltAni.gif": "/Portfolio/static/media/boltAni.38f468a5ecf2891dbb17.gif",
+    "static/media/logo1.png": "/Portfolio/static/media/logo1.91ed7d0ae5c0b0b361ea.png",
+    "static/media/about112.png": "/Portfolio/static/media/about112.48ffae51ea97ced6b2c5.png",
+    "index.html": "/Portfolio/index.html",
+    "main.6b2d1536.css.map": "/Portfolio/static/css/main.6b2d1536.css.map",
+    "main.cc81e73b.js.map": "/Portfolio/static/js/main.cc81e73b.js.map",
+    "787.75caaa81.chunk.js.map": "/Portfolio/static/js/787.75caaa81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b2d1536.css",
+    "static/js/main.cc81e73b.js"
+  ]
+}
