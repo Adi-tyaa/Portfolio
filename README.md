@@ -27,7 +27,7 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Moon1knight](https://github.com/Adi-tyaa). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Aditya](https://github.com/Adi-tyaa). Thanks!
 
 ## Built With
 
